@@ -3,7 +3,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'signup_screen.dart';
 import 'login_screen.dart';
-import 'home_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
